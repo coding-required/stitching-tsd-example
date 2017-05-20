@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "es2015",
+    "target": "es5",
+    "lib": ["es5"],
+    "sourceMap": true,
+    "jsx": "react",
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "forceConsistentCasingInFileNames": true,
+    "declaration": true,
+    "declarationDir": "tsd-files"
+  },
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
